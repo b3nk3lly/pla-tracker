@@ -1,4 +1,6 @@
+import EncounterType from "./EncounterType";
 import IEncounter from "./IEncounter";
+import Location from "./Location";
 
 class Pokemon {
 	id: number;
@@ -6,8 +8,6 @@ class Pokemon {
 	number: number;
 	form: string;
 	gender: string;
-	isDefaultForm: boolean;
-	isDefaultGender: boolean;
 	canBeAlpha: boolean;
 	canBeShiny: boolean;
 	encounters: IEncounter[];
@@ -18,8 +18,6 @@ class Pokemon {
 		number: number,
 		form: string,
 		gender: string,
-		isDefaultForm: boolean,
-		isDefaultGender: boolean,
 		canBeAlpha: boolean,
 		canBeShiny: boolean,
 		encounters: IEncounter[]
@@ -29,11 +27,40 @@ class Pokemon {
 		this.number = number;
 		this.form = form;
 		this.gender = gender;
-		this.isDefaultForm = isDefaultForm;
-		this.isDefaultGender = isDefaultGender;
 		this.canBeAlpha = canBeAlpha;
 		this.canBeShiny = canBeShiny;
 		this.encounters = encounters;
+	}
+
+
+	public isFoundIn(
+		location: Location,
+		encounterType: EncounterType
+	): boolean {
+		return (
+			this.isFoundInLocation(location) &&
+			this.isFoundInEncounterType(encounterType)
+		);
+	}
+
+	public isFoundInLocation(location: Location): boolean {
+		return this.encounters.some((encounter) => {
+			return encounter.location === location;
+		});
+	}
+
+	public isFoundInEncounterType(encounterType: EncounterType): boolean {
+		return this.encounters.some((encounter) => {
+			return encounter.type === encounterType;
+		});
+	}
+
+	public isDefaultForm(): boolean {
+		return ["", "A", "Hisuian"].includes(this.form);
+	}
+
+	public isDefaultGender(): boolean {
+		return this.form !== "Female";
 	}
 
 	public static fromJSON(json: Object): Pokemon {
