@@ -10,4 +10,4 @@ def getMassOutbreakInfo(driver, name: str):
         By.XPATH, "//a[text()='" + name + "']/../../../../../../..//h3")
 
     return [{'location': location.text,
-             'encounterType': 'Mass Outbreak'} for location in locations]
+             'type': 'Mass Outbreak'} for location in locations]

@@ -42,7 +42,7 @@ def getPokemonEncounters(driver, name: str):
         # add the encounter if it's new
         if (not encounters) or (encounters[-1]['location'] != location_name) or (encounters[-1]['encounterType'] != encounter_type):
             encounters.append(
-                {'location': location_name, 'encounterType': encounter_type})
+                {'location': location_name, 'type': encounter_type})
 
     encounters.extend(getMassOutbreakInfo(driver, name))
     return encounters
