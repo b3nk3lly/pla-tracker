@@ -3,7 +3,7 @@ import EncounterType from "./EncounterType";
 
 interface IEncounter {
 	location: Location;
-	types: EncounterType[];
+	type: EncounterType;
 }
 
 export default IEncounter;
