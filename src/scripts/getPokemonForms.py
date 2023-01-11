@@ -19,7 +19,7 @@ def getPokemonForms(driver, name: str):
     try:
         forms = driver.find_elements(
             By.XPATH, "//td[text()='Alternate Forms']/../..//b")
-        return list(map(lambda form: str(form.text).replace("Forme", "").replace("Form", "")
+        return list(map(lambda form: str(form.text).replace("Forme", "").replace("Form", "").replace("Rotom", "")
                         .strip(), forms)) if forms else ['']
     except NoSuchElementException:
         return ['']
