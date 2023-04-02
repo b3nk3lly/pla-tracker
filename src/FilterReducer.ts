@@ -34,7 +34,11 @@ const filterReducer = (
 		// do nothing
 	}
 
-	return structuredClone(filter);
+	/*
+	  Here we make a clone of the Filter so components will re-render.
+	  Need to specify the "apply" function as it's not copied over automatically.
+	*/
+	return { ...filter, apply: filter.apply };
 };
 
 export default filterReducer;
