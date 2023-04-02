@@ -1,3 +1,4 @@
+import { Grid } from "@mui/material";
 import React, { useReducer } from "react";
 import "../App.css";
 import Filter from "../Filter";
@@ -10,8 +11,14 @@ function App() {
 
 	return (
 		<div className="App">
-			<PokemonTable filter={filter} />
-			<Settings dispatch={filterDispatch} />
+			<Grid container>
+				<Grid item xs={9}>
+					<PokemonTable filter={filter} />
+				</Grid>
+				<Grid item xs={3}>
+					<Settings dispatch={filterDispatch} />
+				</Grid>
+			</Grid>
 		</div>
 	);
 }
