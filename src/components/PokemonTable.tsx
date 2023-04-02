@@ -7,6 +7,8 @@ import TableBody from "@mui/material/TableBody";
 import TableRow from "@mui/material/TableRow";
 import TableCell from "@mui/material/TableCell";
 import Filter from "../objects/Filter";
+import ProgressButton from "./ProgressButton";
+import ProgressType from "../enums/ProgressType";
 
 function getPokemon(filter: Filter): Pokemon[] {
 	let pokemonList = pokemonJSON.map((pokemon) => {
@@ -40,16 +42,26 @@ export default function PokemonTable({ filter }: { filter: Filter }) {
 							<TableCell>{pokemon.form}</TableCell>
 							<TableCell>{pokemon.gender}</TableCell>
 							<TableCell>
-								<button></button>
+								<ProgressButton
+									progressType={ProgressType.REGULAR}
+								/>
 							</TableCell>
 							<TableCell>
-								<button></button>
+								<ProgressButton
+									progressType={ProgressType.ALPHA}
+								/>
 							</TableCell>
 							<TableCell>
-								<button></button>
+								<ProgressButton
+									progressType={ProgressType.SHINY}
+								/>
 							</TableCell>
 							<TableCell>
-								<button></button>
+								<ProgressButton
+									progressType={
+										ProgressType.PATH_OF_SOLUTIDUE
+									}
+								/>
 							</TableCell>
 						</TableRow>
 					))}
