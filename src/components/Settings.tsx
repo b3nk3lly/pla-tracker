@@ -1,26 +1,17 @@
-import React, { useState } from "react";
+import React from "react";
 import FormGroup from "@mui/material/FormGroup";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import Checkbox from "@mui/material/Checkbox";
 import Location from "../Location";
 import EncounterType from "../EncounterType";
+import IFilterReducerAction from "../IFilterReducerAction";
+import FilterReducerActionType from "../FilterReducerActionType";
 
-export default function Settings() {
-	const [locations, setLocations] = useState([
-		Location.OBSIDIAN_FIELDLANDS,
-		Location.CRIMSON_MIRELANDS,
-		Location.COBALT_COASTLANDS,
-		Location.CORONET_HIGHLANDS,
-		Location.ALABASTER_ICELANDS
-	]);
-
-	const [encounterTypes, setEncounterTypes] = useState([
-		EncounterType.OVERWORLD,
-		EncounterType.MASS_OUTBREAK,
-		EncounterType.MASSIVE_MASS_OUTBREAK,
-		EncounterType.SPACETIME_DISTORTION
-	]);
-
+export default function Settings({
+	dispatch
+}: {
+	dispatch: React.Dispatch<IFilterReducerAction>;
+}) {
 	/**
 	 * Adds or removes a Location.
 	 * @param event
@@ -30,11 +21,12 @@ export default function Settings() {
 		event: React.ChangeEvent<HTMLInputElement>,
 		location: Location
 	) => {
-		if (event.target.checked) {
-			setLocations([...locations, location]);
-		} else {
-			setLocations(locations.filter((loc) => loc !== location));
-		}
+		dispatch({
+			type: event.target.checked
+				? FilterReducerActionType.ADD_LOCATION
+				: FilterReducerActionType.REMOVE_LOCATION,
+			payload: location
+		});
 	};
 
 	/**
@@ -46,13 +38,12 @@ export default function Settings() {
 		event: React.ChangeEvent<HTMLInputElement>,
 		encounterType: EncounterType
 	) => {
-		if (event.target.checked) {
-			setEncounterTypes([...encounterTypes, encounterType]);
-		} else {
-			setEncounterTypes(
-				encounterTypes.filter((type) => type !== encounterType)
-			);
-		}
+		dispatch({
+			type: event.target.checked
+				? FilterReducerActionType.ADD_ENCOUNTER_TYPE
+				: FilterReducerActionType.REMOVE_ENCOUNTER_TYPE,
+			payload: encounterType
+		});
 	};
 
 	return (

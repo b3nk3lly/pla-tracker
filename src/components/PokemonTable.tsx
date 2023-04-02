@@ -6,14 +6,25 @@ import TableHead from "@mui/material/TableHead";
 import TableBody from "@mui/material/TableBody";
 import TableRow from "@mui/material/TableRow";
 import TableCell from "@mui/material/TableCell";
+import Filter from "../Filter";
 
-function getPokemon(): Pokemon[] {
-	return pokemonJSON.map((pokemon) => {
+function getPokemon(filter: Filter): Pokemon[] {
+	let pokemonList = pokemonJSON.map((pokemon) => {
 		return Pokemon.fromJSON(pokemon);
 	});
+
+	pokemonList = pokemonList.filter((pokemon) => {
+		return filter.encounterTypes.some((encounterType) => {
+			return filter.locations.some((location) => {
+				return pokemon.isFoundIn(location, encounterType);
+			});
+		});
+	});
+
+	return pokemonList;
 }
 
-export default function PokemonTable() {
+export default function PokemonTable({ filter }: { filter: Filter }) {
 	return (
 		<TableContainer>
 			<Table>
@@ -30,7 +41,7 @@ export default function PokemonTable() {
 					</TableRow>
 				</TableHead>
 				<TableBody>
-					{getPokemon().map((pokemon: Pokemon) => (
+					{getPokemon(filter).map((pokemon: Pokemon) => (
 						<TableRow key={pokemon.id}>
 							<TableCell>{pokemon.number}</TableCell>
 							<TableCell>{pokemon.name}</TableCell>
