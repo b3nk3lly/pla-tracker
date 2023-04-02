@@ -1,5 +1,5 @@
 import { Checkbox, FormControlLabel } from "@mui/material";
-import Location from "../../Location";
+import Location from "../../enums/Location";
 
 interface Props {
 	location: Location;

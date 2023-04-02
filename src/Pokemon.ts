@@ -1,6 +1,6 @@
-import EncounterType from "./EncounterType";
+import EncounterType from "./enums/EncounterType";
 import IEncounter from "./IEncounter";
-import Location from "./Location";
+import Location from "./enums/Location";
 
 class Pokemon {
 	id: number;
@@ -31,7 +31,6 @@ class Pokemon {
 		this.canBeShiny = canBeShiny;
 		this.encounters = encounters;
 	}
-
 
 	public isFoundIn(
 		location: Location,

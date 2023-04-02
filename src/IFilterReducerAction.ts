@@ -1,6 +1,6 @@
-import EncounterType from "./EncounterType";
-import FilterReducerActionType from "./FilterReducerActionType";
-import Location from "./Location";
+import EncounterType from "./enums/EncounterType";
+import FilterReducerActionType from "./enums/FilterReducerActionType";
+import Location from "./enums/Location";
 
 interface IFilterReducerAction {
 	type: FilterReducerActionType;

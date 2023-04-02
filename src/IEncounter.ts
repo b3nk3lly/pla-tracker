@@ -1,5 +1,5 @@
-import Location from "./Location";
-import EncounterType from "./EncounterType";
+import Location from "./enums/Location";
+import EncounterType from "./enums/EncounterType";
 
 interface IEncounter {
 	location: Location;

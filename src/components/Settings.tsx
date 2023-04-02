@@ -1,9 +1,9 @@
 import React from "react";
 import FormGroup from "@mui/material/FormGroup";
-import Location from "../Location";
-import EncounterType from "../EncounterType";
+import Location from "../enums/Location";
+import EncounterType from "../enums/EncounterType";
 import IFilterReducerAction from "../IFilterReducerAction";
-import FilterReducerActionType from "../FilterReducerActionType";
+import FilterReducerActionType from "../enums/FilterReducerActionType";
 import LocationFilterButton from "./filter/LocationFilterButton";
 import EncounterTypeFilterButton from "./filter/EncounterTypeFilterButton";
 

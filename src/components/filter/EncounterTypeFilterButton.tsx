@@ -1,5 +1,5 @@
 import { Checkbox, FormControlLabel } from "@mui/material";
-import EncounterType from "../../EncounterType";
+import EncounterType from "../../enums/EncounterType";
 
 interface Props {
 	encounterType: EncounterType;

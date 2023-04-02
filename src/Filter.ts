@@ -1,5 +1,5 @@
-import EncounterType from "./EncounterType";
-import Location from "./Location";
+import EncounterType from "./enums/EncounterType";
+import Location from "./enums/Location";
 import Pokemon from "./Pokemon";
 
 class Filter {
