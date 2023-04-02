@@ -1,5 +1,5 @@
 import EncounterType from "./enums/EncounterType";
-import IEncounter from "./IEncounter";
+import IEncounter from "./interfaces/IEncounter";
 import Location from "./enums/Location";
 
 class Pokemon {
