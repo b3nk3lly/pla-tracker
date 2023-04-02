@@ -1,6 +1,6 @@
-import EncounterType from "./enums/EncounterType";
-import IEncounter from "./interfaces/IEncounter";
-import Location from "./enums/Location";
+import EncounterType from "../enums/EncounterType";
+import IEncounter from "../interfaces/IEncounter";
+import Location from "../enums/Location";
 
 class Pokemon {
 	id: number;

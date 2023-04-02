@@ -1,7 +1,7 @@
 import { Grid } from "@mui/material";
 import React, { useReducer } from "react";
 import "../App.css";
-import Filter from "../Filter";
+import Filter from "../objects/Filter";
 import filterReducer from "../FilterReducer";
 import PokemonTable from "./PokemonTable";
 import Settings from "./Settings";

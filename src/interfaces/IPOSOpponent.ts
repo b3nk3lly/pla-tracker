@@ -1,4 +1,4 @@
-import Pokemon from "../Pokemon";
+import Pokemon from "../objects/Pokemon";
 
 interface POSOpponent {
 	pokemon: Pokemon;
