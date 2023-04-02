@@ -1,11 +1,11 @@
 import React from "react";
 import FormGroup from "@mui/material/FormGroup";
-import FormControlLabel from "@mui/material/FormControlLabel";
-import Checkbox from "@mui/material/Checkbox";
 import Location from "../Location";
 import EncounterType from "../EncounterType";
 import IFilterReducerAction from "../IFilterReducerAction";
 import FilterReducerActionType from "../FilterReducerActionType";
+import LocationFilterButton from "./filter/LocationFilterButton";
+import EncounterTypeFilterButton from "./filter/EncounterTypeFilterButton";
 
 export default function Settings({
 	dispatch
@@ -48,120 +48,42 @@ export default function Settings({
 
 	return (
 		<FormGroup>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleLocationChange(
-								e,
-								Location.OBSIDIAN_FIELDLANDS
-							)
-						}
-					/>
-				}
-				label={Location.OBSIDIAN_FIELDLANDS}
+			<LocationFilterButton
+				location={Location.OBSIDIAN_FIELDLANDS}
+				handleChange={handleLocationChange}
 			/>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleLocationChange(e, Location.CRIMSON_MIRELANDS)
-						}
-					/>
-				}
-				label={Location.CRIMSON_MIRELANDS}
+			<LocationFilterButton
+				location={Location.CRIMSON_MIRELANDS}
+				handleChange={handleLocationChange}
 			/>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleLocationChange(e, Location.COBALT_COASTLANDS)
-						}
-					/>
-				}
-				label={Location.COBALT_COASTLANDS}
+			<LocationFilterButton
+				location={Location.COBALT_COASTLANDS}
+				handleChange={handleLocationChange}
 			/>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleLocationChange(e, Location.CORONET_HIGHLANDS)
-						}
-					/>
-				}
-				label={Location.CORONET_HIGHLANDS}
+			<LocationFilterButton
+				location={Location.CORONET_HIGHLANDS}
+				handleChange={handleLocationChange}
 			/>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleLocationChange(e, Location.ALABASTER_ICELANDS)
-						}
-					/>
-				}
-				label={Location.ALABASTER_ICELANDS}
+			<LocationFilterButton
+				location={Location.ALABASTER_ICELANDS}
+				handleChange={handleLocationChange}
 			/>
 
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleEncounterTypeChange(
-								e,
-								EncounterType.OVERWORLD
-							)
-						}
-					/>
-				}
-				label={EncounterType.OVERWORLD}
+			<EncounterTypeFilterButton
+				encounterType={EncounterType.OVERWORLD}
+				handleChange={handleEncounterTypeChange}
 			/>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleEncounterTypeChange(
-								e,
-								EncounterType.MASS_OUTBREAK
-							)
-						}
-					/>
-				}
-				label={EncounterType.MASS_OUTBREAK}
+			<EncounterTypeFilterButton
+				encounterType={EncounterType.MASS_OUTBREAK}
+				handleChange={handleEncounterTypeChange}
 			/>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleEncounterTypeChange(
-								e,
-								EncounterType.MASSIVE_MASS_OUTBREAK
-							)
-						}
-					/>
-				}
-				label={EncounterType.MASSIVE_MASS_OUTBREAK}
+			<EncounterTypeFilterButton
+				encounterType={EncounterType.MASSIVE_MASS_OUTBREAK}
+				handleChange={handleEncounterTypeChange}
 			/>
-			<FormControlLabel
-				control={
-					<Checkbox
-						defaultChecked
-						onChange={(e) =>
-							handleEncounterTypeChange(
-								e,
-								EncounterType.SPACETIME_DISTORTION
-							)
-						}
-					/>
-				}
-				label={EncounterType.SPACETIME_DISTORTION}
+			<EncounterTypeFilterButton
+				encounterType={EncounterType.SPACETIME_DISTORTION}
+				handleChange={handleEncounterTypeChange}
 			/>
 		</FormGroup>
 	);
