@@ -1,0 +1,6735 @@
+[
+	{
+		"id": 0,
+		"number": 1,
+		"name": "Rowlet",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"number": 2,
+		"name": "Dartrix",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"number": 3,
+		"name": "Decidueye",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"number": 4,
+		"name": "Cyndaquil",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"number": 5,
+		"name": "Quilava",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"number": 6,
+		"name": "Typhlosion",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"number": 7,
+		"name": "Oshawott",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"number": 8,
+		"name": "Dewott",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"number": 9,
+		"name": "Samurott",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"number": 10,
+		"name": "Bidoof",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"number": 10,
+		"name": "Bidoof",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"number": 11,
+		"name": "Bibarel",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"number": 11,
+		"name": "Bibarel",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"number": 12,
+		"name": "Starly",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 14,
+		"number": 12,
+		"name": "Starly",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 15,
+		"number": 13,
+		"name": "Staravia",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 16,
+		"number": 13,
+		"name": "Staravia",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 17,
+		"number": 14,
+		"name": "Staraptor",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 18,
+		"number": 14,
+		"name": "Staraptor",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 19,
+		"number": 15,
+		"name": "Shinx",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 20,
+		"number": 15,
+		"name": "Shinx",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 21,
+		"number": 16,
+		"name": "Luxio",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 22,
+		"number": 16,
+		"name": "Luxio",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 23,
+		"number": 17,
+		"name": "Luxray",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 24,
+		"number": 17,
+		"name": "Luxray",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 25,
+		"number": 18,
+		"name": "Wurmple",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 26,
+		"number": 19,
+		"name": "Silcoon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 27,
+		"number": 20,
+		"name": "Beautifly",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 28,
+		"number": 20,
+		"name": "Beautifly",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 29,
+		"number": 21,
+		"name": "Cascoon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 30,
+		"number": 22,
+		"name": "Dustox",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 31,
+		"number": 22,
+		"name": "Dustox",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 32,
+		"number": 23,
+		"name": "Ponyta",
+		"gender": "",
+		"form": "Kantonian",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 33,
+		"number": 23,
+		"name": "Ponyta",
+		"gender": "",
+		"form": "Galarian",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 34,
+		"number": 24,
+		"name": "Rapidash",
+		"gender": "",
+		"form": "Kantonian",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 35,
+		"number": 24,
+		"name": "Rapidash",
+		"gender": "",
+		"form": "Galarian",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 36,
+		"number": 25,
+		"name": "Eevee",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 37,
+		"number": 25,
+		"name": "Eevee",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 38,
+		"number": 26,
+		"name": "Vaporeon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 39,
+		"number": 27,
+		"name": "Jolteon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 40,
+		"number": 28,
+		"name": "Flareon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 41,
+		"number": 29,
+		"name": "Espeon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 42,
+		"number": 30,
+		"name": "Umbreon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 43,
+		"number": 31,
+		"name": "Leafeon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 44,
+		"number": 32,
+		"name": "Glaceon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 45,
+		"number": 33,
+		"name": "Sylveon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 46,
+		"number": 34,
+		"name": "Zubat",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 47,
+		"number": 34,
+		"name": "Zubat",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 48,
+		"number": 35,
+		"name": "Golbat",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 49,
+		"number": 35,
+		"name": "Golbat",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 50,
+		"number": 36,
+		"name": "Crobat",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 51,
+		"number": 37,
+		"name": "Drifloon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 52,
+		"number": 38,
+		"name": "Drifblim",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 53,
+		"number": 39,
+		"name": "Kricketot",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 54,
+		"number": 39,
+		"name": "Kricketot",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 55,
+		"number": 40,
+		"name": "Kricketune",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 56,
+		"number": 40,
+		"name": "Kricketune",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 57,
+		"number": 41,
+		"name": "Buizel",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 58,
+		"number": 42,
+		"name": "Floatzel",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 59,
+		"number": 43,
+		"name": "Burmy",
+		"gender": "",
+		"form": "Plant Cloak",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 60,
+		"number": 43,
+		"name": "Burmy",
+		"gender": "",
+		"form": "Sandy Cloak",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 61,
+		"number": 43,
+		"name": "Burmy",
+		"gender": "",
+		"form": "Trash Cloak",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 62,
+		"number": 44,
+		"name": "Wormadam",
+		"gender": "",
+		"form": "Plant Cloak",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 63,
+		"number": 44,
+		"name": "Wormadam",
+		"gender": "",
+		"form": "Sandy Cloak",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 64,
+		"number": 44,
+		"name": "Wormadam",
+		"gender": "",
+		"form": "Trash Cloak",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 65,
+		"number": 45,
+		"name": "Mothim",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 66,
+		"number": 46,
+		"name": "Geodude",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 67,
+		"number": 47,
+		"name": "Graveler",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 68,
+		"number": 48,
+		"name": "Golem",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 69,
+		"number": 49,
+		"name": "Stantler",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 70,
+		"number": 50,
+		"name": "Wyrdeer",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 71,
+		"number": 51,
+		"name": "Munchlax",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 72,
+		"number": 52,
+		"name": "Snorlax",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 73,
+		"number": 53,
+		"name": "Paras",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 74,
+		"number": 54,
+		"name": "Parasect",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 75,
+		"number": 55,
+		"name": "Pichu",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 76,
+		"number": 56,
+		"name": "Pikachu",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 77,
+		"number": 56,
+		"name": "Pikachu",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 78,
+		"number": 57,
+		"name": "Raichu",
+		"gender": "Male",
+		"form": "Kantonian",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 79,
+		"number": 57,
+		"name": "Raichu",
+		"gender": "Male",
+		"form": "Alola",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 80,
+		"number": 57,
+		"name": "Raichu",
+		"gender": "Female",
+		"form": "Kantonian",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 81,
+		"number": 57,
+		"name": "Raichu",
+		"gender": "Female",
+		"form": "Alola",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 82,
+		"number": 58,
+		"name": "Abra",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 83,
+		"number": 59,
+		"name": "Kadabra",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 84,
+		"number": 59,
+		"name": "Kadabra",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 85,
+		"number": 60,
+		"name": "Alakazam",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 86,
+		"number": 60,
+		"name": "Alakazam",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 87,
+		"number": 61,
+		"name": "Chimchar",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 88,
+		"number": 62,
+		"name": "Monferno",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 89,
+		"number": 63,
+		"name": "Infernape",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 90,
+		"number": 64,
+		"name": "Buneary",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 91,
+		"number": 65,
+		"name": "Lopunny",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 92,
+		"number": 66,
+		"name": "Cherubi",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 93,
+		"number": 67,
+		"name": "Cherrim",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 94,
+		"number": 68,
+		"name": "Psyduck",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 95,
+		"number": 69,
+		"name": "Golduck",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 96,
+		"number": 70,
+		"name": "Combee",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 97,
+		"number": 70,
+		"name": "Combee",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 98,
+		"number": 71,
+		"name": "Vespiquen",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Crimson Mirelands", "type": "Overworld" }]
+	},
+	{
+		"id": 99,
+		"number": 72,
+		"name": "Scyther",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 100,
+		"number": 72,
+		"name": "Scyther",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 101,
+		"number": 73,
+		"name": "Kleavor",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 102,
+		"number": 74,
+		"name": "Scizor",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 103,
+		"number": 74,
+		"name": "Scizor",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Alabaster Icelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 104,
+		"number": 75,
+		"name": "Heracross",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 105,
+		"number": 75,
+		"name": "Heracross",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 106,
+		"number": 76,
+		"name": "Mime Jr.",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 107,
+		"number": 77,
+		"name": "Mr. Mime",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 108,
+		"number": 78,
+		"name": "Aipom",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 109,
+		"number": 78,
+		"name": "Aipom",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 110,
+		"number": 79,
+		"name": "Ambipom",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 111,
+		"number": 79,
+		"name": "Ambipom",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 112,
+		"number": 80,
+		"name": "Magikarp",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 113,
+		"number": 80,
+		"name": "Magikarp",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 114,
+		"number": 81,
+		"name": "Gyarados",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 115,
+		"number": 81,
+		"name": "Gyarados",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 116,
+		"number": 82,
+		"name": "Shellos",
+		"gender": "",
+		"form": "West Sea",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 117,
+		"number": 82,
+		"name": "Shellos",
+		"gender": "",
+		"form": "East Sea",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 118,
+		"number": 83,
+		"name": "Gastrodon",
+		"gender": "",
+		"form": "West Sea",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 119,
+		"number": 83,
+		"name": "Gastrodon",
+		"gender": "",
+		"form": "East Sea",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 120,
+		"number": 84,
+		"name": "Qwilfish",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 121,
+		"number": 85,
+		"name": "Overqwil",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 122,
+		"number": 86,
+		"name": "Happiny",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 123,
+		"number": 87,
+		"name": "Chansey",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 124,
+		"number": 88,
+		"name": "Blissey",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 125,
+		"number": 89,
+		"name": "Budew",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 126,
+		"number": 90,
+		"name": "Roselia",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 127,
+		"number": 90,
+		"name": "Roselia",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 128,
+		"number": 91,
+		"name": "Roserade",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 129,
+		"number": 91,
+		"name": "Roserade",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 130,
+		"number": 92,
+		"name": "Carnivine",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 131,
+		"number": 93,
+		"name": "Petilil",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 132,
+		"number": 94,
+		"name": "Lilligant",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 133,
+		"number": 95,
+		"name": "Tangela",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 134,
+		"number": 96,
+		"name": "Tangrowth",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 135,
+		"number": 96,
+		"name": "Tangrowth",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 136,
+		"number": 97,
+		"name": "Barboach",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 137,
+		"number": 98,
+		"name": "Whiscash",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 138,
+		"number": 99,
+		"name": "Croagunk",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 139,
+		"number": 99,
+		"name": "Croagunk",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 140,
+		"number": 100,
+		"name": "Toxicroak",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 141,
+		"number": 100,
+		"name": "Toxicroak",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 142,
+		"number": 101,
+		"name": "Ralts",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 143,
+		"number": 102,
+		"name": "Kirlia",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 144,
+		"number": 103,
+		"name": "Gardevoir",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 145,
+		"number": 104,
+		"name": "Gallade",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 146,
+		"number": 105,
+		"name": "Yanma",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 147,
+		"number": 106,
+		"name": "Yanmega",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 148,
+		"number": 107,
+		"name": "Hippopotas",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 149,
+		"number": 107,
+		"name": "Hippopotas",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 150,
+		"number": 108,
+		"name": "Hippowdon",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 151,
+		"number": 108,
+		"name": "Hippowdon",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 152,
+		"number": 109,
+		"name": "Pachirisu",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 153,
+		"number": 109,
+		"name": "Pachirisu",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 154,
+		"number": 110,
+		"name": "Stunky",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 155,
+		"number": 111,
+		"name": "Skuntank",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 156,
+		"number": 112,
+		"name": "Teddiursa",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 157,
+		"number": 113,
+		"name": "Ursaring",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 158,
+		"number": 113,
+		"name": "Ursaring",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 159,
+		"number": 114,
+		"name": "Ursaluna",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 160,
+		"number": 115,
+		"name": "Goomy",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 161,
+		"number": 116,
+		"name": "Sliggoo",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 162,
+		"number": 117,
+		"name": "Goodra",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 163,
+		"number": 118,
+		"name": "Onix",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 164,
+		"number": 119,
+		"name": "Steelix",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 165,
+		"number": 119,
+		"name": "Steelix",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 166,
+		"number": 120,
+		"name": "Rhyhorn",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 167,
+		"number": 120,
+		"name": "Rhyhorn",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 168,
+		"number": 121,
+		"name": "Rhydon",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 169,
+		"number": 121,
+		"name": "Rhydon",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 170,
+		"number": 122,
+		"name": "Rhyperior",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 171,
+		"number": 122,
+		"name": "Rhyperior",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 172,
+		"number": 123,
+		"name": "Bonsly",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 173,
+		"number": 124,
+		"name": "Sudowoodo",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 174,
+		"number": 124,
+		"name": "Sudowoodo",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 175,
+		"number": 125,
+		"name": "Lickitung",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 176,
+		"number": 126,
+		"name": "Lickilicky",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 177,
+		"number": 127,
+		"name": "Togepi",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 178,
+		"number": 128,
+		"name": "Togetic",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 179,
+		"number": 129,
+		"name": "Togekiss",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 180,
+		"number": 130,
+		"name": "Turtwig",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 181,
+		"number": 131,
+		"name": "Grotle",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 182,
+		"number": 132,
+		"name": "Torterra",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 183,
+		"number": 133,
+		"name": "Porygon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 184,
+		"number": 134,
+		"name": "Porygon2",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 185,
+		"number": 135,
+		"name": "Porygon-Z",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Crimson Mirelands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 186,
+		"number": 136,
+		"name": "Gastly",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 187,
+		"number": 137,
+		"name": "Haunter",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 188,
+		"number": 138,
+		"name": "Gengar",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 189,
+		"number": 139,
+		"name": "Spiritomb",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 190,
+		"number": 140,
+		"name": "Murkrow",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 191,
+		"number": 140,
+		"name": "Murkrow",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Crimson Mirelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 192,
+		"number": 141,
+		"name": "Honchkrow",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 193,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "A",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 194,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "B",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 195,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "C",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 196,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "D",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 197,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "E",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 198,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "F",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 199,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "G",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 200,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "H",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 201,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "I",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 202,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "J",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 203,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "K",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 204,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "L",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 205,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "M",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 206,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "N",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 207,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "O",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 208,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "P",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 209,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "Q",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 210,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "R",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 211,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "S",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 212,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "T",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 213,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "U",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 214,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "V",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 215,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "W",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 216,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "X",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 217,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "Y",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 218,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "Z",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 219,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "!",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 220,
+		"number": 142,
+		"name": "Unown",
+		"gender": "",
+		"form": "?",
+		"encounters": [
+			{ "location": "Crimson Mirelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 221,
+		"number": 143,
+		"name": "Spheal",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 222,
+		"number": 144,
+		"name": "Sealeo",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 223,
+		"number": 145,
+		"name": "Walrein",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 224,
+		"number": 146,
+		"name": "Remoraid",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 225,
+		"number": 147,
+		"name": "Octillery",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 226,
+		"number": 147,
+		"name": "Octillery",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 227,
+		"number": 148,
+		"name": "Skorupi",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 228,
+		"number": 149,
+		"name": "Drapion",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 229,
+		"number": 150,
+		"name": "Growlithe",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 230,
+		"number": 151,
+		"name": "Arcanine",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 231,
+		"number": 152,
+		"name": "Glameow",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 232,
+		"number": 153,
+		"name": "Purugly",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 233,
+		"number": 154,
+		"name": "Machop",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 234,
+		"number": 155,
+		"name": "Machoke",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" },
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 235,
+		"number": 156,
+		"name": "Machamp",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 236,
+		"number": 157,
+		"name": "Chatot",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 237,
+		"number": 158,
+		"name": "Duskull",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 238,
+		"number": 159,
+		"name": "Dusclops",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 239,
+		"number": 160,
+		"name": "Dusknoir",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 240,
+		"number": 161,
+		"name": "Piplup",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 241,
+		"number": 162,
+		"name": "Prinplup",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 242,
+		"number": 163,
+		"name": "Empoleon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 243,
+		"number": 164,
+		"name": "Mantyke",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 244,
+		"number": 165,
+		"name": "Mantine",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 245,
+		"number": 166,
+		"name": "Basculin",
+		"gender": "",
+		"form": "White-Striped",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 246,
+		"number": 167,
+		"name": "Basculegion",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 247,
+		"number": 167,
+		"name": "Basculegion",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 248,
+		"number": 168,
+		"name": "Vulpix",
+		"gender": "",
+		"form": "Kantonian",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 249,
+		"number": 168,
+		"name": "Vulpix",
+		"gender": "",
+		"form": "Alola",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 250,
+		"number": 169,
+		"name": "Ninetales",
+		"gender": "",
+		"form": "Kantonian",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 251,
+		"number": 169,
+		"name": "Ninetales",
+		"gender": "",
+		"form": "Alola",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 252,
+		"number": 170,
+		"name": "Tentacool",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 253,
+		"number": 171,
+		"name": "Tentacruel",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 254,
+		"number": 172,
+		"name": "Finneon",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 255,
+		"number": 172,
+		"name": "Finneon",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 256,
+		"number": 173,
+		"name": "Lumineon",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 257,
+		"number": 173,
+		"name": "Lumineon",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 258,
+		"number": 174,
+		"name": "Magby",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 259,
+		"number": 175,
+		"name": "Magmar",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Cobalt Coastlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 260,
+		"number": 176,
+		"name": "Magmortar",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			},
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 261,
+		"number": 177,
+		"name": "Magnemite",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 262,
+		"number": 178,
+		"name": "Magneton",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 263,
+		"number": 179,
+		"name": "Magnezone",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	},
+	{
+		"id": 264,
+		"number": 180,
+		"name": "Bronzor",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 265,
+		"number": 181,
+		"name": "Bronzong",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 266,
+		"number": 182,
+		"name": "Elekid",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 267,
+		"number": 183,
+		"name": "Electabuzz",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 268,
+		"number": 184,
+		"name": "Electivire",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 269,
+		"number": 185,
+		"name": "Gligar",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 270,
+		"number": 185,
+		"name": "Gligar",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 271,
+		"number": 186,
+		"name": "Gliscor",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 272,
+		"number": 187,
+		"name": "Gible",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 273,
+		"number": 187,
+		"name": "Gible",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 274,
+		"number": 188,
+		"name": "Gabite",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 275,
+		"number": 188,
+		"name": "Gabite",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 276,
+		"number": 189,
+		"name": "Garchomp",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 277,
+		"number": 189,
+		"name": "Garchomp",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 278,
+		"number": 190,
+		"name": "Nosepass",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 279,
+		"number": 191,
+		"name": "Probopass",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 280,
+		"number": 192,
+		"name": "Voltorb",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 281,
+		"number": 193,
+		"name": "Electrode",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 282,
+		"number": 194,
+		"name": "Rotom",
+		"gender": "",
+		"form": "Rotom",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 283,
+		"number": 194,
+		"name": "Rotom",
+		"gender": "",
+		"form": "Fan Rotom",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 284,
+		"number": 194,
+		"name": "Rotom",
+		"gender": "",
+		"form": "Frost Rotom",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 285,
+		"number": 194,
+		"name": "Rotom",
+		"gender": "",
+		"form": "Heat Rotom",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 286,
+		"number": 194,
+		"name": "Rotom",
+		"gender": "",
+		"form": "Mow Rotom",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 287,
+		"number": 194,
+		"name": "Rotom",
+		"gender": "",
+		"form": "Wash Rotom",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 288,
+		"number": 195,
+		"name": "Chingling",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 289,
+		"number": 196,
+		"name": "Chimecho",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 290,
+		"number": 197,
+		"name": "Misdreavus",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 291,
+		"number": 198,
+		"name": "Mismagius",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 292,
+		"number": 199,
+		"name": "Cleffa",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 293,
+		"number": 200,
+		"name": "Clefairy",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 294,
+		"number": 201,
+		"name": "Clefable",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 295,
+		"number": 202,
+		"name": "Sneasel",
+		"gender": "Male",
+		"form": "Johtonian",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 296,
+		"number": 202,
+		"name": "Sneasel",
+		"gender": "Male",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 297,
+		"number": 202,
+		"name": "Sneasel",
+		"gender": "Female",
+		"form": "Johtonian",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 298,
+		"number": 202,
+		"name": "Sneasel",
+		"gender": "Female",
+		"form": "Hisuian",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			},
+			{ "location": "Coronet Highlands", "type": "Overworld" },
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Coronet Highlands",
+				"type": "Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 299,
+		"number": 203,
+		"name": "Sneasler",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 300,
+		"number": 204,
+		"name": "Weavile",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 301,
+		"number": 204,
+		"name": "Weavile",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 302,
+		"number": 205,
+		"name": "Snorunt",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 303,
+		"number": 206,
+		"name": "Glalie",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 304,
+		"number": 207,
+		"name": "Froslass",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 305,
+		"number": 208,
+		"name": "Cranidos",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 306,
+		"number": 209,
+		"name": "Rampardos",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 307,
+		"number": 210,
+		"name": "Shieldon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 308,
+		"number": 211,
+		"name": "Bastiodon",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{
+				"location": "Coronet Highlands",
+				"type": "Spacetime Distortion"
+			}
+		]
+	},
+	{
+		"id": 309,
+		"number": 212,
+		"name": "Swinub",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 310,
+		"number": 213,
+		"name": "Piloswine",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 311,
+		"number": 213,
+		"name": "Piloswine",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Crimson Mirelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 312,
+		"number": 214,
+		"name": "Mamoswine",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 313,
+		"number": 214,
+		"name": "Mamoswine",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 314,
+		"number": 215,
+		"name": "Bergmite",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 315,
+		"number": 216,
+		"name": "Avalugg",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 316,
+		"number": 217,
+		"name": "Snover",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 317,
+		"number": 217,
+		"name": "Snover",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 318,
+		"number": 218,
+		"name": "Abomasnow",
+		"gender": "Male",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 319,
+		"number": 218,
+		"name": "Abomasnow",
+		"gender": "Female",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Coronet Highlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 320,
+		"number": 219,
+		"name": "Zorua",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 321,
+		"number": 220,
+		"name": "Zoroark",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Obsidian Fieldlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 322,
+		"number": 221,
+		"name": "Rufflet",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 323,
+		"number": 222,
+		"name": "Braviary",
+		"gender": "",
+		"form": "Hisuian",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 324,
+		"number": 223,
+		"name": "Riolu",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 325,
+		"number": 224,
+		"name": "Lucario",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" },
+			{
+				"location": "Cobalt Coastlands",
+				"type": "Massive Mass Outbreak"
+			},
+			{
+				"location": "Alabaster Icelands",
+				"type": "Massive Mass Outbreak"
+			}
+		]
+	},
+	{
+		"id": 326,
+		"number": 225,
+		"name": "Uxie",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 327,
+		"number": 226,
+		"name": "Mesprit",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 328,
+		"number": 227,
+		"name": "Azelf",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Crimson Mirelands", "type": "Overworld" }]
+	},
+	{
+		"id": 329,
+		"number": 228,
+		"name": "Heatran",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Cobalt Coastlands", "type": "Overworld" }]
+	},
+	{
+		"id": 330,
+		"number": 229,
+		"name": "Regigigas",
+		"gender": "",
+		"form": "",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 331,
+		"number": 230,
+		"name": "Cresselia",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	},
+	{
+		"id": 332,
+		"number": 231,
+		"name": "Tornadus",
+		"gender": "",
+		"form": "Incarnate",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 333,
+		"number": 231,
+		"name": "Tornadus",
+		"gender": "",
+		"form": "Therian",
+		"encounters": [
+			{ "location": "Alabaster Icelands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 334,
+		"number": 232,
+		"name": "Thundurus",
+		"gender": "",
+		"form": "Incarnate",
+		"encounters": []
+	},
+	{
+		"id": 335,
+		"number": 232,
+		"name": "Thundurus",
+		"gender": "",
+		"form": "Therian",
+		"encounters": []
+	},
+	{
+		"id": 336,
+		"number": 233,
+		"name": "Landorus",
+		"gender": "",
+		"form": "Incarnate",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 337,
+		"number": 233,
+		"name": "Landorus",
+		"gender": "",
+		"form": "Therian",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 338,
+		"number": 234,
+		"name": "Enamorus",
+		"gender": "",
+		"form": "Incarnate",
+		"encounters": [{ "location": "Crimson Mirelands", "type": "Overworld" }]
+	},
+	{
+		"id": 339,
+		"number": 234,
+		"name": "Enamorus",
+		"gender": "",
+		"form": "Therian",
+		"encounters": [{ "location": "Crimson Mirelands", "type": "Overworld" }]
+	},
+	{
+		"id": 340,
+		"number": 235,
+		"name": "Dialga",
+		"gender": "",
+		"form": "Altered",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	},
+	{
+		"id": 341,
+		"number": 235,
+		"name": "Dialga",
+		"gender": "",
+		"form": "Origin",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	},
+	{
+		"id": 342,
+		"number": 236,
+		"name": "Palkia",
+		"gender": "",
+		"form": "Altered",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	},
+	{
+		"id": 343,
+		"number": 236,
+		"name": "Palkia",
+		"gender": "",
+		"form": "Origin",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	},
+	{
+		"id": 344,
+		"number": 237,
+		"name": "Giratina",
+		"gender": "",
+		"form": "Altered",
+		"encounters": [{ "location": "Cobalt Coastlands", "type": "Overworld" }]
+	},
+	{
+		"id": 345,
+		"number": 237,
+		"name": "Giratina",
+		"gender": "",
+		"form": "Origin",
+		"encounters": [{ "location": "Cobalt Coastlands", "type": "Overworld" }]
+	},
+	{
+		"id": 346,
+		"number": 238,
+		"name": "Arceus",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	},
+	{
+		"id": 347,
+		"number": 239,
+		"name": "Phione",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Cobalt Coastlands", "type": "Overworld" }]
+	},
+	{
+		"id": 348,
+		"number": 240,
+		"name": "Manaphy",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Cobalt Coastlands", "type": "Overworld" }]
+	},
+	{
+		"id": 349,
+		"number": 241,
+		"name": "Shaymin",
+		"gender": "",
+		"form": "Land",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 350,
+		"number": 241,
+		"name": "Shaymin",
+		"gender": "",
+		"form": "Sky",
+		"encounters": [
+			{ "location": "Obsidian Fieldlands", "type": "Overworld" }
+		]
+	},
+	{
+		"id": 351,
+		"number": 242,
+		"name": "Darkrai",
+		"gender": "",
+		"form": "",
+		"encounters": [{ "location": "Coronet Highlands", "type": "Overworld" }]
+	}
+]
