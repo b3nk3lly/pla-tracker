@@ -57,11 +57,18 @@ export default function PokemonTable({ filter }: { filter: Filter }) {
 								/>
 							</TableCell>
 							<TableCell>
-								<ProgressButton
-									progressType={
-										ProgressType.PATH_OF_SOLUTIDUE
-									}
-								/>
+								{
+									// POS can only be completed once per Pokemon,
+									// so don't show a button for each form/gender
+									pokemon.isDefaultForm() &&
+									pokemon.isDefaultGender() ? (
+										<ProgressButton
+											progressType={
+												ProgressType.PATH_OF_SOLUTIDUE
+											}
+										/>
+									) : null
+								}
 							</TableCell>
 						</TableRow>
 					))}
