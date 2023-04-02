@@ -55,11 +55,13 @@ class Pokemon {
 	}
 
 	public isDefaultForm(): boolean {
-		return ["", "A", "Hisuian"].includes(this.form);
+		return ["", "A", "Hisuian", "Altered", "Incarnate", "Land"].includes(
+			this.form
+		);
 	}
 
 	public isDefaultGender(): boolean {
-		return this.form !== "Female";
+		return this.gender !== "Female";
 	}
 
 	public static fromJSON(json: Object): Pokemon {
