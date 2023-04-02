@@ -1,8 +1,8 @@
-import EncounterType from "./enums/EncounterType";
-import Filter from "./objects/Filter";
-import FilterReducerActionType from "./enums/FilterReducerActionType";
-import IFilterReducerAction from "./interfaces/IFilterReducerAction";
-import Location from "./enums/Location";
+import EncounterType from "../enums/EncounterType";
+import Filter from "../objects/Filter";
+import FilterReducerActionType from "../enums/FilterReducerActionType";
+import IFilterReducerAction from "../interfaces/IFilterReducerAction";
+import Location from "../enums/Location";
 
 const filterReducer = (
 	filter: Filter,
