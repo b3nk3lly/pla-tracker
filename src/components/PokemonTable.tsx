@@ -13,15 +13,7 @@ function getPokemon(filter: Filter): Pokemon[] {
 		return Pokemon.fromJSON(pokemon);
 	});
 
-	pokemonList = pokemonList.filter((pokemon) => {
-		return filter.encounterTypes.some((encounterType) => {
-			return filter.locations.some((location) => {
-				return pokemon.isFoundIn(location, encounterType);
-			});
-		});
-	});
-
-	return pokemonList;
+	return filter.apply(pokemonList);
 }
 
 export default function PokemonTable({ filter }: { filter: Filter }) {

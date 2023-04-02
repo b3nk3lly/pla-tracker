@@ -1,5 +1,6 @@
 import EncounterType from "./EncounterType";
 import Location from "./Location";
+import Pokemon from "./Pokemon";
 
 class Filter {
 	locations: Location[];
@@ -20,6 +21,21 @@ class Filter {
 			EncounterType.MASSIVE_MASS_OUTBREAK,
 			EncounterType.SPACETIME_DISTORTION
 		];
+	}
+
+	/**
+	 * Filters a list of Pokemon based on the locations and encounter types defined in this filter.
+	 * @param pokemonList the list of Pokemon to be filtered
+	 * @returns the filtered list
+	 */
+	public apply(pokemonList: Pokemon[]): Pokemon[] {
+		return (pokemonList as Pokemon[]).filter((pokemon) => {
+			return this.encounterTypes.some((encounterType) => {
+				return this.locations.some((location) => {
+					return pokemon.isFoundIn(location, encounterType);
+				});
+			});
+		});
 	}
 }
 
