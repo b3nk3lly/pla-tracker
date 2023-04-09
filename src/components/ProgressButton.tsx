@@ -2,13 +2,32 @@ import { IconButton } from "@mui/material";
 import React, { useState } from "react";
 import ProgressType from "../enums/ProgressType";
 
-function ProgressButton({ progressType }: { progressType: ProgressType }) {
-	let [clicked, setClicked] = useState(false);
+interface Props {
+	pokemonId: Number;
+	progressType: ProgressType;
+}
+
+function ProgressButton(props: Props) {
+	const localStorageKey = `${props.pokemonId}-${props.progressType}`;
+
+	let [clicked, setClicked] = useState(
+		// check local storage for saved progress
+		localStorage.getItem(localStorageKey) === "true"
+	);
 
 	let src;
 	let alt;
 
-	switch (progressType) {
+	/**
+	 * Toggles the "clicked" state of the button. Updates local storage and state.
+	 */
+	const handeClick = () => {
+		let newClicked = !clicked;
+		localStorage.setItem(localStorageKey, JSON.stringify(newClicked));
+		setClicked(newClicked);
+	};
+
+	switch (props.progressType) {
 		case ProgressType.REGULAR:
 			src = "images/icons/pokeball.png";
 			alt = "regular icon";
@@ -33,7 +52,7 @@ function ProgressButton({ progressType }: { progressType: ProgressType }) {
 
 	return (
 		<IconButton
-			onClick={(e) => setClicked(!clicked)}
+			onClick={handeClick}
 			style={{
 				opacity: clicked ? 1.0 : 0.3
 			}}

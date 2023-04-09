@@ -15,13 +15,22 @@ function PokemonTableRow(props: Props) {
 			<TableCell>{props.pokemon.form}</TableCell>
 			<TableCell>{props.pokemon.gender}</TableCell>
 			<TableCell>
-				<ProgressButton progressType={ProgressType.REGULAR} />
+				<ProgressButton
+					pokemonId={props.pokemon.id}
+					progressType={ProgressType.REGULAR}
+				/>
 			</TableCell>
 			<TableCell>
-				<ProgressButton progressType={ProgressType.ALPHA} />
+				<ProgressButton
+					pokemonId={props.pokemon.id}
+					progressType={ProgressType.ALPHA}
+				/>
 			</TableCell>
 			<TableCell>
-				<ProgressButton progressType={ProgressType.SHINY} />
+				<ProgressButton
+					pokemonId={props.pokemon.id}
+					progressType={ProgressType.SHINY}
+				/>
 			</TableCell>
 			<TableCell>
 				{
@@ -30,6 +39,7 @@ function PokemonTableRow(props: Props) {
 					props.pokemon.isDefaultForm() &&
 					props.pokemon.isDefaultGender() ? (
 						<ProgressButton
+							pokemonId={props.pokemon.id}
 							progressType={ProgressType.PATH_OF_SOLUTIDUE}
 						/>
 					) : null
