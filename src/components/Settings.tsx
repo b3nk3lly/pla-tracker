@@ -12,6 +12,21 @@ export default function Settings({
 }: {
 	dispatch: React.Dispatch<IFilterReducerAction>;
 }) {
+	const locations = [
+		Location.OBSIDIAN_FIELDLANDS,
+		Location.CRIMSON_MIRELANDS,
+		Location.COBALT_COASTLANDS,
+		Location.CORONET_HIGHLANDS,
+		Location.ALABASTER_ICELANDS
+	];
+
+	const encounterTypes = [
+		EncounterType.OVERWORLD,
+		EncounterType.MASS_OUTBREAK,
+		EncounterType.MASSIVE_MASS_OUTBREAK,
+		EncounterType.SPACETIME_DISTORTION
+	];
+
 	/**
 	 * Adds or removes a Location.
 	 * @param event
@@ -48,43 +63,23 @@ export default function Settings({
 
 	return (
 		<FormGroup>
-			<LocationFilterButton
-				location={Location.OBSIDIAN_FIELDLANDS}
-				handleChange={handleLocationChange}
-			/>
-			<LocationFilterButton
-				location={Location.CRIMSON_MIRELANDS}
-				handleChange={handleLocationChange}
-			/>
-			<LocationFilterButton
-				location={Location.COBALT_COASTLANDS}
-				handleChange={handleLocationChange}
-			/>
-			<LocationFilterButton
-				location={Location.CORONET_HIGHLANDS}
-				handleChange={handleLocationChange}
-			/>
-			<LocationFilterButton
-				location={Location.ALABASTER_ICELANDS}
-				handleChange={handleLocationChange}
-			/>
+			{locations.map((location) => {
+				return (
+					<LocationFilterButton
+						location={location}
+						handleChange={handleLocationChange}
+					/>
+				);
+			})}
 
-			<EncounterTypeFilterButton
-				encounterType={EncounterType.OVERWORLD}
-				handleChange={handleEncounterTypeChange}
-			/>
-			<EncounterTypeFilterButton
-				encounterType={EncounterType.MASS_OUTBREAK}
-				handleChange={handleEncounterTypeChange}
-			/>
-			<EncounterTypeFilterButton
-				encounterType={EncounterType.MASSIVE_MASS_OUTBREAK}
-				handleChange={handleEncounterTypeChange}
-			/>
-			<EncounterTypeFilterButton
-				encounterType={EncounterType.SPACETIME_DISTORTION}
-				handleChange={handleEncounterTypeChange}
-			/>
+			{encounterTypes.map((encounterType) => {
+				return (
+					<EncounterTypeFilterButton
+						encounterType={encounterType}
+						handleChange={handleEncounterTypeChange}
+					/>
+				);
+			})}
 		</FormGroup>
 	);
 }
