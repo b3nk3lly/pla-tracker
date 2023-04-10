@@ -1,6 +1,6 @@
 import { IconButton } from "@mui/material";
 import React, { useState } from "react";
-import ProgressType from "../enums/ProgressType";
+import ProgressType from "../../enums/ProgressType";
 
 interface Props {
 	pokemonId: Number;

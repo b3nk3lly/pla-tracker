@@ -1,4 +1,4 @@
-import Pokemon from "../objects/Pokemon";
+import Pokemon from "../../objects/Pokemon";
 import { Table } from "@mui/material";
 import TableContainer from "@mui/material/TableContainer";
 import TableHead from "@mui/material/TableHead";

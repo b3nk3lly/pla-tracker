@@ -1,6 +1,6 @@
 import { TableCell, TableRow } from "@mui/material";
-import ProgressType from "../enums/ProgressType";
-import Pokemon from "../objects/Pokemon";
+import ProgressType from "../../enums/ProgressType";
+import Pokemon from "../../objects/Pokemon";
 import ProgressButton from "./ProgressButton";
 
 interface Props {
