@@ -7,6 +7,7 @@ import PokemonTable from "./table/PokemonTable";
 import Settings from "./Settings";
 import pokemonJSON from "../data/pokemon.json";
 import Pokemon from "../objects/Pokemon";
+import SearchBar from "./filter/SearchBar";
 
 function App() {
 	let [pokemonList, setPokemonList] = useState([] as Pokemon[]);
@@ -25,6 +26,7 @@ function App() {
 		<div className="App">
 			<Grid container>
 				<Grid item xs={9}>
+					<SearchBar />
 					<PokemonTable pokemonList={filter.apply(pokemonList)} />
 				</Grid>
 				<Grid item xs={3}>
