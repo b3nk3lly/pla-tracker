@@ -9,6 +9,7 @@ interface Props {
 
 function RegionMap(props: Props) {
 	let [clicked, setClicked] = useState(true);
+	let [hovering, setHovering] = useState(false);
 
 	const getColor = (location: Location): string => {
 		switch (location) {
@@ -53,9 +54,14 @@ function RegionMap(props: Props) {
 		<Tooltip title={props.location}>
 			<path
 				onClick={() => handleClick()}
+				onMouseEnter={() => setHovering(true)}
+				onMouseLeave={() => setHovering(false)}
 				style={{
-					fill: getColor(props.location),
-					opacity: clicked ? 0.5 : 0.2
+					fill:
+						clicked || hovering
+							? getColor(props.location)
+							: "rgba(0,0,0,0.3)", // "gray out" the area
+					opacity: 0.6
 				}}
 				d={getCoords(props.location)}
 			/>
