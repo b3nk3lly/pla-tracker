@@ -6,6 +6,7 @@ import IFilterReducerAction from "../interfaces/IFilterReducerAction";
 import FilterReducerActionType from "../enums/FilterReducerActionType";
 import LocationFilterButton from "./filter/LocationFilterButton";
 import EncounterTypeFilterButton from "./filter/EncounterTypeFilterButton";
+import HisuiMap from "./map/HisuiMap";
 
 export default function Settings({
 	dispatch
@@ -80,6 +81,8 @@ export default function Settings({
 					/>
 				);
 			})}
+
+			<HisuiMap />
 		</FormGroup>
 	);
 }
