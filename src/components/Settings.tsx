@@ -5,6 +5,7 @@ import IFilterReducerAction from "../interfaces/IFilterReducerAction";
 import FilterReducerActionType from "../enums/FilterReducerActionType";
 import EncounterTypeFilterButton from "./filter/EncounterTypeFilterButton";
 import HisuiMap from "./map/HisuiMap";
+import { Grid, Typography } from "@mui/material";
 
 export default function Settings({
 	dispatch
@@ -36,17 +37,24 @@ export default function Settings({
 	};
 
 	return (
-		<FormGroup>
-			<HisuiMap dispatch={dispatch} />
+		<Grid container>
+			<Grid item xs={12}>
+				<Typography variant="h4">Filters</Typography>
+			</Grid>
+			<Grid item xs={12}>
+				<FormGroup>
+					<HisuiMap dispatch={dispatch} />
 
-			{encounterTypes.map((encounterType) => {
-				return (
-					<EncounterTypeFilterButton
-						encounterType={encounterType}
-						handleChange={handleEncounterTypeChange}
-					/>
-				);
-			})}
-		</FormGroup>
+					{encounterTypes.map((encounterType) => {
+						return (
+							<EncounterTypeFilterButton
+								encounterType={encounterType}
+								handleChange={handleEncounterTypeChange}
+							/>
+						);
+					})}
+				</FormGroup>
+			</Grid>
+		</Grid>
 	);
 }
