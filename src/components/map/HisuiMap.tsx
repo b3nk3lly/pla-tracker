@@ -1,17 +1,21 @@
 import FilterReducerActionType from "../../enums/FilterReducerActionType";
 import Location from "../../enums/Location";
 import IFilterReducerAction from "../../interfaces/IFilterReducerAction";
-import Coastlands from "./Coastlands";
-import Fieldlands from "./Fieldlands";
-import Highlands from "./Highlands";
-import Icelands from "./Icelands";
-import Mirelands from "./Mirelands";
+import RegionMap from "./RegionMap";
 
 interface Props {
 	dispatch: React.Dispatch<IFilterReducerAction>;
 }
 
 function HisuiMap(props: Props) {
+	let locations = [
+		Location.OBSIDIAN_FIELDLANDS,
+		Location.CRIMSON_MIRELANDS,
+		Location.COBALT_COASTLANDS,
+		Location.CORONET_HIGHLANDS,
+		Location.ALABASTER_ICELANDS
+	];
+
 	/**
 	 * Adds or removes a Location.
 	 * @param event
@@ -3673,11 +3677,9 @@ function HisuiMap(props: Props) {
 				stroke-width="1.000000"
 				d=" M371.500000,377.999969 C371.000000,378.333313 370.500000,378.666656 370.000000,378.999969 "
 			/>
-			<Fieldlands onClick={handleClick} />
-			<Mirelands onClick={handleClick} />
-			<Coastlands onClick={handleClick} />
-			<Icelands onClick={handleClick} />
-			<Highlands onClick={handleClick} />
+			{locations.map((location) => {
+				return <RegionMap location={location} onClick={handleClick} />;
+			})}
 		</svg>
 	);
 }
