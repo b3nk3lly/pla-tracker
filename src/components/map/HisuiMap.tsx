@@ -1,10 +1,31 @@
+import FilterReducerActionType from "../../enums/FilterReducerActionType";
+import Location from "../../enums/Location";
+import IFilterReducerAction from "../../interfaces/IFilterReducerAction";
 import Coastlands from "./Coastlands";
 import Fieldlands from "./Fieldlands";
 import Highlands from "./Highlands";
 import Icelands from "./Icelands";
 import Mirelands from "./Mirelands";
 
-function HisuiMap() {
+interface Props {
+	dispatch: React.Dispatch<IFilterReducerAction>;
+}
+
+function HisuiMap(props: Props) {
+	/**
+	 * Adds or removes a Location.
+	 * @param event
+	 * @param location
+	 */
+	const handleClick = (location: Location, isClicked: boolean) => {
+		props.dispatch({
+			type: isClicked
+				? FilterReducerActionType.ADD_LOCATION
+				: FilterReducerActionType.REMOVE_LOCATION,
+			payload: location
+		});
+	};
+
 	return (
 		<svg viewBox="0 0 1200 675" xmlns="http://www.w3.org/2000/svg">
 			<path
@@ -3652,11 +3673,11 @@ function HisuiMap() {
 				stroke-width="1.000000"
 				d=" M371.500000,377.999969 C371.000000,378.333313 370.500000,378.666656 370.000000,378.999969 "
 			/>
-			<Fieldlands />
-			<Mirelands />
-			<Coastlands />
-			<Icelands />
-			<Highlands />
+			<Fieldlands onClick={handleClick} />
+			<Mirelands onClick={handleClick} />
+			<Coastlands onClick={handleClick} />
+			<Icelands onClick={handleClick} />
+			<Highlands onClick={handleClick} />
 		</svg>
 	);
 }
