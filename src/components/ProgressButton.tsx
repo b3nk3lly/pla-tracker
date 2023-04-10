@@ -51,13 +51,14 @@ function ProgressButton(props: Props) {
 	}
 
 	return (
-		<IconButton
-			onClick={handeClick}
-			style={{
-				opacity: clicked ? 1.0 : 0.3
-			}}
-		>
-			<img src={src} alt={alt}></img>
+		<IconButton onClick={handeClick}>
+			<img
+				src={src}
+				alt={alt}
+				style={{
+					opacity: clicked ? 1.0 : 0.3
+				}}
+			></img>
 		</IconButton>
 	);
 }
