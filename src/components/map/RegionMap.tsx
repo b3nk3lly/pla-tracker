@@ -1,3 +1,4 @@
+import { Tooltip } from "@mui/material";
 import { useState } from "react";
 import Location from "../../enums/Location";
 
@@ -49,14 +50,16 @@ function RegionMap(props: Props) {
 	};
 
 	return (
-		<path
-			onClick={() => handleClick()}
-			style={{
-				fill: getColor(props.location),
-				opacity: clicked ? 0.5 : 0.2
-			}}
-			d={getCoords(props.location)}
-		/>
+		<Tooltip title={props.location}>
+			<path
+				onClick={() => handleClick()}
+				style={{
+					fill: getColor(props.location),
+					opacity: clicked ? 0.5 : 0.2
+				}}
+				d={getCoords(props.location)}
+			/>
+		</Tooltip>
 	);
 }
 
