@@ -17,14 +17,14 @@ export default function PokemonTable(props: Props) {
 			<Table>
 				<TableHead>
 					<TableRow>
-						<TableCell>#</TableCell>
-						<TableCell>Name</TableCell>
-						<TableCell>Form</TableCell>
-						<TableCell>Gender</TableCell>
-						<TableCell>Regular</TableCell>
-						<TableCell>Alpha</TableCell>
-						<TableCell>Shiny</TableCell>
-						<TableCell>Path of Solitude</TableCell>
+						<TableCell align="center">#</TableCell>
+						<TableCell align="center">Name</TableCell>
+						<TableCell align="center">Form</TableCell>
+						<TableCell align="center">Gender</TableCell>
+						<TableCell align="center">Regular</TableCell>
+						<TableCell align="center">Alpha</TableCell>
+						<TableCell align="center">Shiny</TableCell>
+						<TableCell align="center">Path of Solitude</TableCell>
 					</TableRow>
 				</TableHead>
 				<TableBody>

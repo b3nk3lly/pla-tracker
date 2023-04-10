@@ -10,29 +10,29 @@ interface Props {
 function PokemonTableRow(props: Props) {
 	return (
 		<TableRow key={props.pokemon.id}>
-			<TableCell>{props.pokemon.number}</TableCell>
-			<TableCell>{props.pokemon.name}</TableCell>
-			<TableCell>{props.pokemon.form}</TableCell>
-			<TableCell>{props.pokemon.gender}</TableCell>
-			<TableCell>
+			<TableCell align="center">{props.pokemon.number}</TableCell>
+			<TableCell align="center">{props.pokemon.name}</TableCell>
+			<TableCell align="center">{props.pokemon.form}</TableCell>
+			<TableCell align="center">{props.pokemon.gender}</TableCell>
+			<TableCell align="center">
 				<ProgressButton
 					pokemonId={props.pokemon.id}
 					progressType={ProgressType.REGULAR}
 				/>
 			</TableCell>
-			<TableCell>
+			<TableCell align="center">
 				<ProgressButton
 					pokemonId={props.pokemon.id}
 					progressType={ProgressType.ALPHA}
 				/>
 			</TableCell>
-			<TableCell>
+			<TableCell align="center">
 				<ProgressButton
 					pokemonId={props.pokemon.id}
 					progressType={ProgressType.SHINY}
 				/>
 			</TableCell>
-			<TableCell>
+			<TableCell align="center">
 				{
 					// POS can only be completed once per Pokemon,
 					// so don't show a button for each form/gender
