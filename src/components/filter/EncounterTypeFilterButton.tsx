@@ -1,4 +1,4 @@
-import { Checkbox, FormControlLabel } from "@mui/material";
+import { Checkbox, FormControlLabel, Typography } from "@mui/material";
 import EncounterType from "../../enums/EncounterType";
 
 interface Props {
@@ -18,7 +18,9 @@ function EncounterTypeFilterButton(props: Props) {
 					onChange={(e) => props.handleChange(e, props.encounterType)}
 				/>
 			}
-			label={props.encounterType}
+			label={
+				<Typography variant="body2">{props.encounterType}</Typography>
+			}
 		/>
 	);
 }

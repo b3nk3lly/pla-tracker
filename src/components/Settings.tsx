@@ -37,23 +37,44 @@ export default function Settings({
 	};
 
 	return (
-		<Grid container>
+		<Grid container rowSpacing={2}>
 			<Grid item xs={12}>
 				<Typography variant="h4">Filters</Typography>
 			</Grid>
 			<Grid item xs={12}>
-				<FormGroup>
-					<HisuiMap dispatch={dispatch} />
-
-					{encounterTypes.map((encounterType) => {
-						return (
-							<EncounterTypeFilterButton
-								encounterType={encounterType}
-								handleChange={handleEncounterTypeChange}
-							/>
-						);
-					})}
-				</FormGroup>
+				<HisuiMap dispatch={dispatch} />
+			</Grid>
+			<Grid
+				item
+				xs={6}
+				display="flex"
+				justifyContent="flex-start"
+				direction="column"
+			>
+				<EncounterTypeFilterButton
+					encounterType={EncounterType.OVERWORLD}
+					handleChange={handleEncounterTypeChange}
+				/>
+				<EncounterTypeFilterButton
+					encounterType={EncounterType.MASS_OUTBREAK}
+					handleChange={handleEncounterTypeChange}
+				/>
+			</Grid>
+			<Grid
+				item
+				xs={6}
+				display="flex"
+				justifyContent="flex-start"
+				direction="column"
+			>
+				<EncounterTypeFilterButton
+					encounterType={EncounterType.MASSIVE_MASS_OUTBREAK}
+					handleChange={handleEncounterTypeChange}
+				/>
+				<EncounterTypeFilterButton
+					encounterType={EncounterType.SPACETIME_DISTORTION}
+					handleChange={handleEncounterTypeChange}
+				/>
 			</Grid>
 		</Grid>
 	);
