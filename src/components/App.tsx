@@ -25,11 +25,11 @@ function App() {
 	return (
 		<div className="App">
 			<Grid container>
-				<Grid item xs={9}>
+				<Grid item xs={8}>
 					<SearchBar />
 					<PokemonTable pokemonList={filter.apply(pokemonList)} />
 				</Grid>
-				<Grid item xs={3}>
+				<Grid item xs={4}>
 					<Settings dispatch={filterDispatch} />
 				</Grid>
 			</Grid>
